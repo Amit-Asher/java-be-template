@@ -1,8 +1,8 @@
-package com.example.java_template.controllers;
+package com.example.java_be_template.controllers;
 
-import com.example.java_template.interfaces.CreateUserDto;
-import com.example.java_template.interfaces.UserDto;
-import com.example.java_template.services.UsersService;
+import com.example.java_be_template.interfaces.CreateUserDto;
+import com.example.java_be_template.interfaces.UserDto;
+import com.example.java_be_template.services.UsersService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;

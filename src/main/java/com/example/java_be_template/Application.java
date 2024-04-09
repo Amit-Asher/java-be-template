@@ -1,4 +1,4 @@
-package com.example.java_template;
+package com.example.java_be_template;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

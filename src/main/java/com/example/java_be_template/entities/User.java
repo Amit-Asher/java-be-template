@@ -1,4 +1,4 @@
-package com.example.java_template.entities;
+package com.example.java_be_template.entities;
 
 import jakarta.persistence.*;
 import org.hibernate.annotations.CreationTimestamp;

@@ -1,6 +1,6 @@
-package com.example.java_template.repositories;
+package com.example.java_be_template.repositories;
 
-import com.example.java_template.entities.User;
+import com.example.java_be_template.entities.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;

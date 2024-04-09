@@ -1,9 +1,9 @@
-package com.example.java_template.services;
+package com.example.java_be_template.services;
 
-import com.example.java_template.entities.User;
-import com.example.java_template.interfaces.CreateUserDto;
-import com.example.java_template.interfaces.UserDto;
-import com.example.java_template.repositories.UserRepository;
+import com.example.java_be_template.entities.User;
+import com.example.java_be_template.interfaces.CreateUserDto;
+import com.example.java_be_template.interfaces.UserDto;
+import com.example.java_be_template.repositories.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.PageRequest;
 import org.springframework.data.domain.Sort;

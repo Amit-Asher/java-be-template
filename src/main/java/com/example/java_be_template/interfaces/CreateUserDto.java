@@ -1,4 +1,4 @@
-package com.example.java_template.interfaces;
+package com.example.java_be_template.interfaces;
 
 public class CreateUserDto {
 
